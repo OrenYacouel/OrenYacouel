@@ -21,7 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4]
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][5]
 
-[1]: www.linkedin.com/in/oren-yacouel
+[1]: https://www.linkedin.com/in/oren-yacouel
 [2]: mailto:oren.yacouel@gmail.com
 [3]: https://www.facebook.com/oren.yacouel
 [4]: https://github.com/OrenYacouel
